@@ -9,3 +9,5 @@ My interests right now are mostly in compiler engineering, but I'm also interest
 engineering. At the moment I'm reading books on compilers and am aiming to start contributing to LLVM, GCC, and CLang.
 
 My favorite languages are C, C++, Python, and Rust.
+
+Also check out my [LinkedIn](https://www.linkedin.com/in/james-gaitan-783642161/)!
