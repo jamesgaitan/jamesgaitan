@@ -6,7 +6,7 @@ a high-performance software defined modem server.
 
 I've also worked at BlueHalo as an embedded software engineer where I mainly developed firmware and drivers for Nordic and STM32 devices in C/C++, targeting ARM Cortex-M3 processors.
 
-Currently, I am working at Aurora as an embedded software engineer where I work primarily with GPS.
+Currently, I am working at Aurora as an embedded software engineer where I work primarily in C++ on STM32 processors. I work mainly with GPS devices used for localization.
 
 My interests right now are mostly in compiler engineering, but I'm also interested in HPC and GPUs. I read many books, blogs, and articles on computer 
 engineering. At the moment I'm reading books on compilers and am aiming to start contributing to LLVM, GCC, and CLang.
