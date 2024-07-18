@@ -16,16 +16,12 @@ engineering. At the moment I'm reading books on compilers and am aiming to start
 Languages:
 * C
 * C++
-* Python
 * Rust
+* Python
 
-IDEs:
-* Intellij/CLion
-* VS Code
-
-Distros:
-* Arch
-* Ubuntu
+IDE: VS Code
+Distro: Arch
+DE: KDE Plasma
 
 Books:
 * Code Complete
